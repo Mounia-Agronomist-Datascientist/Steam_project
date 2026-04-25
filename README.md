@@ -2,7 +2,8 @@
 
 The goal of this project is to conduct a global analysis of the games available on Steam's marketplace in order to better understand the videogames ecosystem and today's trends. We want to understand what factors affect the popularity or sales of a video game to better prepare the release of a new revolutionary videogame. 
 
-
+## DATABRICKS ACCES
+URL for Databricks notebook with outputs : https://dbc-4ce177e6-a8bb.cloud.databricks.com/browse/folders/256899025860107?o=4499755976569818
 
 ## Overview
 
