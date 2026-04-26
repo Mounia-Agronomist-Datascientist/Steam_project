@@ -59,13 +59,7 @@ The analysis addresses the following business questions:
 Steam_project/
 ├── Steam_project_no_output.ipynb      # Main analysis notebook
 ├── README.md                           # This file
-├── ANALYSIS_NOTES.md                   # Detailed findings per section
-├── NULL_SEMANTICS.md                   # Framework for handling NULLs
-└── outputs/
-    ├── cleaned_dataset.parquet         # Processed data
-    ├── publishers_analysis.csv
-    ├── games_analysis.csv
-    └── visualizations/
+└── requirements.txt
 ```
 
 
